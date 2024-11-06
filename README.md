@@ -9,7 +9,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npm install
    ```
-2.Download the currency-converter-app folder
+ 2.Download the currency-converter-app folder
 
 3. Start the app
 
